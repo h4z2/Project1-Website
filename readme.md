@@ -1,0 +1,2 @@
+30/05/2022
+    Uploaded the initial files for my website including an about, contact, home and portfolio pages. Im working on a scrolling left to right banner at the top of each page to showcase a basic knowledge of javascript animation. A navigation menu, layout and design will be the next addition to be fully fleshed out in my website.
