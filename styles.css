@@ -1,0 +1,105 @@
+.a:link
+{
+    color: rgb(0, 0, 0);
+}
+body
+{
+    background-color: rgb(195, 255, 210);
+}
+#wrapper
+{
+    width: 75vw;
+    margin-left: 10vw;
+}
+/* Title Background */
+.display-1
+{
+    width: 75vw;
+    background-color: rgb(126, 199, 126);
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000;
+    text-align: center;
+    border-radius: 1vw;
+}
+/* Navigation */
+nav
+{
+    height: 2.5em;
+    color:  #000;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    background-color: rgb(155, 247, 155);
+    text-align: center;
+    line-height: 2.5em;
+    border-radius: 1vw;
+}
+/* Home Button */
+.home
+{
+    width: 18.75vw;
+    float: left;
+    color: rgb(0, 0, 0);
+    border-radius: 1vw;
+}
+div.home:hover
+{
+    background-color: rgb(90, 134, 90);
+    border-radius: 1vw;
+}
+/* About Button */
+.about
+{
+    width: 18.75vw;
+    float: left;
+    color: rgb(0, 0, 0);
+    border-radius: 1vw;
+}
+div.about:hover
+{
+    background-color: rgb(90, 134, 90);
+    border-radius: 1vw;
+}
+/* Portfolio Button */
+.portfolio
+{
+    width: 18.75vw;
+    float: left;
+    color: rgb(0, 0, 0);
+    border: 1vw;
+}
+div.portfolio:hover
+{
+    background-color: rgb(90, 134, 90);
+    border-radius: 1vw;
+}
+/* Contact Button */
+.contact
+{
+    width: 18.75vw;
+    float: left;
+    color: black;
+    border-radius: 1vw;
+}
+div.contact:hover
+{
+    background-color: rgb(90, 134, 90);
+    border-radius: 1vw;
+}
+section
+{
+    background-color: rgb(255, 255, 255);
+    height: 50vw;
+    padding-left: 2.5vw;
+    border-radius: 1vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer
+{
+    background-color: rgb(163, 163, 163);
+    height: 10vw;
+    padding-left: 2.5vw;
+    border-radius: 1vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
