@@ -4,7 +4,7 @@
 }
 body
 {
-    background-color: rgb(195, 255, 210);
+    background-color: rgb(255, 255, 255);
 }
 #wrapper
 {
@@ -87,6 +87,11 @@ div.contact:hover
 {
     background-color: rgb(90, 134, 90);
     border-radius: 1vw;
+}
+div.section
+{
+    border: #000;
+    border: 1px;
 }
 section
 {
