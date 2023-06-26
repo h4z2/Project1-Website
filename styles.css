@@ -157,6 +157,7 @@ td
 form
 {
     font-size: 1vw;
+    text-align: center;
     padding: 3vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
